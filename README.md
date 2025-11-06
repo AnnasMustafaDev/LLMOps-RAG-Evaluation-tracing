@@ -10,6 +10,8 @@ A comprehensive evaluation framework for Retrieval-Augmented Generation (RAG) sy
 - 🤖 **LangChain + Together AI**: Leverages Together AI's fast inference with LangChain
 - 📈 **Detailed Reports**: HTML, CSV, and JSON output formats
 - ✅ **Full Test Coverage**: Comprehensive unit and integration tests
+- ✅ **Docker Container**: Docker File along with yml
+- ✅ **CI/CD pipeline**: CI/CD pipeline integrated using github workflows
 
 ## Architecture
 
